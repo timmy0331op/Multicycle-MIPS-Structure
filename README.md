@@ -1,6 +1,6 @@
 # 多週期 MIPS 架構 (Multicycle MIPS Architecture)
 
-**[這份文件](./Multicycle_MIPS.pdf)**詳細解析了 **多週期 MIPS 架構 (Multicycle Architecture)**，並以圖解說明了處理器設計從單週期 (Single Cycle) 演進到多週期 (Multicycle) 的轉換過程。
+**[這份文件](./Multicycle_MIPS.pdf)** 詳細解析了 **多週期 MIPS 架構 (Multicycle Architecture)**，並以圖解說明了處理器設計從單週期 (Single Cycle) 演進到多週期 (Multicycle) 的轉換過程。
 
 ## 執行階段 (Execution Stages)
 
